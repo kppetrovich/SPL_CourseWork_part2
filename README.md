@@ -1,5 +1,5 @@
 # SPL_CourseWork_part2
-Интерпритатор Forth
+Интерпретатор Forth
 
 make all -- to build the project
 
